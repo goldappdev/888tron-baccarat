@@ -1,0 +1,36 @@
+Using network 'development'.
+
+Deploying contracts to development network...
+
+Warning: This version does not support tests written in Solidity.
+
+Preparing Javascript tests (if any)...
+
+
+  Contract: Hand
+    ✓ should deploy and be empty
+    ✓ should be able to take 3 cards + cardsCount test (36577ms)
+
+
+    ✓ check 0 cards from handsParams (24402ms)
+
+
+
+    ✓ check 1 cards from handsParams (36568ms)
+
+
+    ✓ check 2 cards from handsParams (24353ms)
+
+
+
+    ✓ check 3 cards from handsParams (36593ms)
+
+
+    ✓ check 4 cards from handsParams (24326ms)
+
+
+
+    ✓ check 5 cards from handsParams (36608ms)
+
+
+  8 passing (4m)

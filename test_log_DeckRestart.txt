@@ -1,0 +1,17 @@
+Using network 'development'.
+
+Deploying contracts to development network...
+
+Warning: This version does not support tests written in Solidity.
+
+Preparing Javascript tests (if any)...
+
+
+  Contract: Deck
+    ✓ should be deployed
+    ✓ should contain 416 cards (8 decks) (4788ms)
+    ✓ each card should have unique address (3774ms)
+    ✓ drawCards should put 6 cards to stack and they have unique addresses (85183ms)
+
+
+  4 passing (2m)

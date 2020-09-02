@@ -1,0 +1,19 @@
+Using network 'development'.
+
+Deploying contracts to development network...
+
+Warning: This version does not support tests written in Solidity.
+
+Preparing Javascript tests (if any)...
+
+
+  Contract: RandomNumberGenerator
+    ✓ should deploy
+    ✓ RNG(0) should return 0 (12102ms)
+    ✓ call RNG two times in same block should return non equal numbers (12235ms)
+Max wait time 1500000 ms
+20_13_19_21_27_
+    ✓ distribution should be uniform (1201268ms)
+
+
+  4 passing (20m)
